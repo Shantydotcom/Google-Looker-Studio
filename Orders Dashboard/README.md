@@ -1,5 +1,5 @@
 # Orders Dashboard
-[![Orders Dashboard](https://github.com/Shantydotcom/Google-Looker-Studio/blob/main/Orders%20Dashboard/Orders%20Dashboard.png)
+![Orders Dashboard](https://github.com/Shantydotcom/Google-Looker-Studio/blob/main/Orders%20Dashboard/Orders%20Dashboard.png)
 
 This project creates a visually appealing and interactive dashboard using Google Looker Studio. This dashboard will present key insights from a dataset and help you deliver data-driven decisions in an engaging manner. It covers dynamic charts, KPIs, and tables, ensuring a comprehensive and visually appealing representation of data.
 
