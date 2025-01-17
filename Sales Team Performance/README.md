@@ -1,6 +1,6 @@
 # Sales Team Performance Dashboard 
 
-![Sales Team Performance Dashboard]([https://github.com/Shantydotcom/Google-Looker-Studio/blob/main/Orders%20Dashboard/Orders%20Dashboard.png]
+![Sales Team Performance Dashboard](https://github.com/Shantydotcom/Google-Looker-Studio/blob/main/Orders%20Dashboard/Orders%20Dashboard.png)
 
 This project analyzes and visualizes the performance of a sales team. It leverages Looker Studio and a Google Sheet as the data source to create an interactive dashboard with rich visual insights and key performance indicators (KPIs).
 
