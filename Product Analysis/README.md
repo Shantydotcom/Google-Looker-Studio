@@ -6,7 +6,6 @@ This project demonstrates how to design a customizable dashboard using Google Lo
 
 [View the interactive report](https://lookerstudio.google.com/u/0/reporting/e3e861c7-1c7c-425c-bd63-8c055e37df8b/page/Vu4dE)
 
-
 ## Dashboard Features
 ### 1. Key Performance Indicators (KPIs)
 - Display key metrics such as total # of orders, total # of segments, total # of products, total sales, and total profit using Scorecards.
