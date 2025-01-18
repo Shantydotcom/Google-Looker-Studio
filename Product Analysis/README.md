@@ -1,10 +1,10 @@
 # Product Analysis Dashboard
 
-![Sales Team Performance Dashboard](https://github.com/Shantydotcom/Google-Looker-Studio/blob/main/Sales%20Team%20Performance/Sales%20Team%20Performance.png)
+![Product Analysis Dashboard](https://github.com/Shantydotcom/Google-Looker-Studio/blob/main/Product%20Analysis/Product%20Analysis%20Dashboard.png)
 
 This project demonstrates how to design a customizable dashboard using Google Looker Studio. It focuses on creating headers, KPIs, and visual insights through charts and interactive features.
 
-[View the interactive report](https://lookerstudio.google.com/u/0/reporting/fefea2f9-61cd-4eab-a9c6-c1bcc5a016cc/page/yutdE)
+[View the interactive report](https://lookerstudio.google.com/u/0/reporting/e3e861c7-1c7c-425c-bd63-8c055e37df8b/page/Vu4dE)
 
 
 ## Dashboard Features
