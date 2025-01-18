@@ -6,7 +6,6 @@ This project analyzes and visualizes the performance of a sales team. It leverag
 
 [View the interactive report](https://lookerstudio.google.com/u/0/reporting/fefea2f9-61cd-4eab-a9c6-c1bcc5a016cc/page/yutdE)
 
-
 ## Dashboard Features
 
 ### 1. Key Performance Indicators (KPIs)
